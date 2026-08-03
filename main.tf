@@ -14,3 +14,8 @@ name = "my-rg"
 location = "centralindia"
   
 }
+resource "azurerm_resource_group" "rg2" {
+name = "my-rg2"
+location = "centralindia"
+  
+}
